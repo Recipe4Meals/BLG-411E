@@ -1,4 +1,4 @@
-BLG-411E ~ Software Engineering Project
+BLG-411E ~ Software Engineering ~ Term Project
 
 Recipe4Meals is an Android-platform mobile application that provides users with lists of easy-to-understand recipes and suggests several suitable dishes that the user can cook given the user\`s inventory. 
 
