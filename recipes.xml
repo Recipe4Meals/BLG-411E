@@ -32,7 +32,7 @@
 		
 		<comments>
 			<comment id="c010001-01" commenter="Ali Osman">This is the best egg recipe ever.</comment>
-			<comment id="c010001-02" commenter="Guest">I can eat this everyday.</comment>
+			<comment id="c010001-02" commenter="Emre">I can eat this everyday.</comment>
 		</comments>		
 	</recipe>
 	<recipe>
@@ -65,7 +65,7 @@
 		
 		<comments>
 			<comment id="010002-01" commenter="Ali Osman">I love pancake.</comment>
-			<comment id="010002-02" commenter="Guest">I like it with cheese .</comment>
+			<comment id="010002-02" commenter="Caner">I like it with cheese .</comment>
 		</comments>		
 	</recipe>
 	<recipe>
@@ -104,7 +104,7 @@
 		</instructions>
 		
 		<comments>
-			<comment id="c020001-01" commenter="Guest">It is delicious, I made it.</comment>
+			<comment id="c020001-01" commenter="Baran">It is delicious, I made it.</comment>
 		</comments>		
 	</recipe>
 
@@ -112,7 +112,7 @@
 		<recipeID>r020002​</recipeID>
 		<name>Broccoli Salad</name>
 
-		<cuisine>mediterian</cuisine>
+		<cuisine>Mediterian</cuisine>
 		<mealTime>Lunch</mealTime>
 		<cookingTime quantity="30" unit="minutes"/>
 		<difficulty level="3"/>
@@ -142,7 +142,7 @@
 		</instructions>
 		
 		<comments>
-			<comment id="c020001-01" commenter="Guest">It is very easy, I made it.</comment>
+			<comment id="c020001-01" commenter="İbrahim">It is very easy, I made it.</comment>
 		</comments>		
 	</recipe>
 </recipes>
