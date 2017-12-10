@@ -64,8 +64,8 @@
 		</instructions>
 		
 		<comments>
-			<comment id="010002-01" commenter="Ali Osman">I love pancake.</comment>
-			<comment id="010002-02" commenter="Caner">I like it with cheese .</comment>
+			<comment id="c010002-01" commenter="Ali Osman">I love pancake.</comment>
+			<comment id="c010002-02" commenter="Caner">I like it with cheese .</comment>
 		</comments>		
 	</recipe>
 	<recipe>
@@ -142,7 +142,7 @@
 		</instructions>
 		
 		<comments>
-			<comment id="c020001-01" commenter="İbrahim">It is very easy, I made it.</comment>
+			<comment id="c020002-01" commenter="İbrahim">It is very easy, I made it.</comment>
 		</comments>		
 	</recipe>
 </recipes>
